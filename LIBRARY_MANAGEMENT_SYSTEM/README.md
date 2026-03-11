@@ -19,7 +19,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](c:\Users\jajun\Pictures\Screenshots\Screenshot 2026-03-09 212825.png)
+![ERD](https://github.com/Netal24/DA_SQL_PROJECTS/blob/main/LIBRARY_MANAGEMENT_SYSTEM/Screenshot%202026-03-09%20212825.png?raw=true)
 
 - **Database Creation**: Created a database named `library_management_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
